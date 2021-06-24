@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "owner_id": ["828567025130930188"],
+        "support": "https://discord.gg/pmF7hue4PA",
+        "website": "https://discord.gg/pmF7hue4PA"
+    },
+    "bot": {
+        "connections": {
+            "mongoose": "",
+            "yt_api": "AIzaSyD8zvRSOJxyPQ2DZo3Gw9upDB1kEhq2R2E"
+        },
+        "setting": {
+            "main_prefix": "!"
+        }
+    }
+}
